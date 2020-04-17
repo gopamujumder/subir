@@ -15,12 +15,8 @@ http://103.214.202.218:8081/live/deepto/playlist.m3u8
 http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
 #EXTINF:-1,NTV
 http://103.214.202.218:8081/live/ntv/chunks.m3u8
-#EXTINF:-1,NTV
-https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/5mFA_A_cCVGwMidFd5qsGQ/1585422470/ntv.m3u8
 #EXTINF:-1,RTV
 http://103.214.202.218:8081/live/rtv/chunks.m3u8
-#EXTINF:-1,RTV
-https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/NiDOpK8qYWOtXOpNMG6axw/1585420637/rtv_low/index.m3u8
 #EXTINF:-1,ATN News
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
 #EXTINF:-1,Boishakhi TV
@@ -55,12 +51,8 @@ http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
 http://103.144.200.7:8080/hls/atnbangla/index.m3u8
 #EXTINF:-1,Bangla Vision
 http://103.214.202.218:8081/live/banglavision/chunks.m3u8
-#EXTINF:-1,Bangla Vision
-https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/u0aWWKcOvtkuWlZ9Xn_m-Q/1585422618/bangla_vision_low/index.m3u8
 #EXTINF:-1,Channel I
 http://103.214.202.218:8081/live/channeli/chunks.m3u8
-#EXTINF:-1,Channel I
-https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/FOIw4yYZCehbQnYrD5ohgw/1585422396/channel_i.m3u8
 #EXTINF:-1,MY TV
 http://103.214.202.218:8081/live/mytv/chunks.m3u8
 #EXTINF:-1,Movie Bangla
@@ -191,12 +183,6 @@ http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 http://103.214.202.218:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,Star World
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
-#EXTINF:-1,BBC World
-https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/tcW2_Emy8kiJfPPb52jR9Q/1585422059/bbc_world_low/index.m3u8
-#EXTINF:-1,All Jazeera
-https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/hjDWaiVsn1W1gQw3SBj8lA/1585421616/al_jazeera_low/index.m3u8
-#EXTINF:-1,DE
-https://edge4.bioscopelive.com:443/hls/Ep30Ppm3t6g/k3xSQuTCPg1OoLeWSyNmMg/1585421675/dw_low/index.m3u8
 #EXTINF:-1,MTV In
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Zoom
